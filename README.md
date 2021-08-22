@@ -1,17 +1,30 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
+# Explore US Bikeshare data :bike::eyes:
+##### Date created: 2021/08/22
 
-### Date created
-Include the date you created this project and README file.
 
-### Project Title
-Replace the Project Title
 
 ### Description
-Describe what your project is about and what it does
+This is interactive program which takes user raw input and shares interesting data insights about bike share systems for three major cities in the United States—Chicago, New York City, and Washington.
+Here are the questions that you can answer using this program:
+- Popular times of travel
+- Popular stations and trip
+- Trip duration
+- Audience details (client type, gender, etc)
+
+You can filter data by City, Month and Day of the week.
+
+In this project I used data provided by [Motivate](https://www.motivateco.com/), a bike share system provider for many major cities in the United States
+
+### Sowtware used
+- Python 3, NumPy, and pandas libraries
+- A terminal application (Terminal on Mac and Linux or Cygwin on Windows)
 
 ### Files used
-Include the files used
+- chicago.csv
+- new_york_city.csv
+- washington.csv
+
+
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+This project is a part of ['Programming for Data Science with Python Nanodegree Program'](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104) with Udacity. Big thanks to them!:clap:
